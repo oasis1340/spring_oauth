@@ -23,5 +23,4 @@ public interface MemberService {
 
 //    회원 탈퇴
     public void withdraw(Long id);
-
 }
